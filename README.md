@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtahoPrince
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html,javascript,
+- 🌱 I’m currently learning html,javascript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me Atahoprince@gmail
 
